@@ -3,8 +3,7 @@ Watch your music become a snow crystal
 
 ## Description
 Crystal Harmony is an interactive visual experience that runs within the Processing environment. The tool allows the user to enjoy a visual representation of his musical performance.\
-The program uses MIDI inputs and musical features (e.g., harmony and tempo) to affect the growth parameters of a snow crystal, leading to the creation of a unique snowflake.\
-Throughout the experience, the user can play and experiment with different sounds.\
+The program uses MIDI inputs and musical features (e.g., harmony and tempo) to affect the growth parameters of a snow crystal, leading to the creation of a unique snowflake. Throughout the experience, the user can play and experiment with different sounds.\
 No piano-skills are required to use Crystal Harmony, enthusiasm alone is sufficient!
 
 <p align="center">
