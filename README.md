@@ -8,4 +8,4 @@ Watch your music become a snow crystal
 ## Authors
 Manuele Montrasio\
 Francesco Veronesi\
-Francesco Zese\
+Francesco Zese
