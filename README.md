@@ -12,6 +12,7 @@ No piano-skills are required to use Crystal Harmony, enthusiasm alone is suffici
   
 ## Instructions
 ### Get started
+Download all files and be sure to save them in the same folder.\
 Connect your MIDI keyboard to your PC. Please, be sure it is turned on.\
 Open the SuperCollider file CrystalHarmony.sc. Reboot the server and run the script to initialize MIDI connections, MIDIdefs, SynthDefs and OSCdefs (follow the instructions in the file). Please, be sure that everything is working correctly by looking at the Post window.\
 Open the Processing file CrystalHarmony.pde and run it. Please, wait until the menu appears before start playing.
