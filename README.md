@@ -7,6 +7,10 @@ The program uses MIDI inputs and musical features (e.g., harmony and tempo) to a
 Throughout the experience, the user can play and experiment with different sounds.\
 No piano-skills are required to use Crystal Harmony, enthusiasm alone is sufficient!
 
+<p align="center">
+<img class= "center" src="https://github.com/manuelemontrasio/CrystalHarmony/assets/93670319/df633331-1058-4029-bdab-9a9cb83155c8" width="600">
+<\p>
+  
 ## Instructions
 ### Get started
 Connect your MIDI keybord to your PC. Please, be sure it is turned on.\
