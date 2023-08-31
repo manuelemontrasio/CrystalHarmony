@@ -1,4 +1,4 @@
-# CrystalHarmony
+# Crystal Harmony
 Watch your music become a snow crystal
 
 ## Description
