@@ -14,7 +14,8 @@ No piano-skills are required to use Crystal Harmony, enthusiasm alone is suffici
 ### Get started
 Connect your MIDI keyboard to your PC. Please, be sure it is turned on.\
 Open the SuperCollider file CrystalHarmony.sc. Reboot the server and run the script to initialize MIDI connections, MIDIdefs, SynthDefs and OSCdefs (follow the instructions in the file). Please, be sure that everything is working correctly by looking at the Post window.\
-Open the Processing file CrystalHarmony.pde and run it. Please, wait until the menu appears before start playing.
+Open the Processing file CrystalHarmony.pde and run it. Please, wait until the menu appears before start playing.\
+Notice: the Processing library themidibus may have problems with the first realeses of Processing 4. Be sure that you have installed the latest version.
 
 ### Menu features
 <img align="right" src="https://github.com/manuelemontrasio/CrystalHarmony/assets/93670319/991f9e86-161c-4f0d-a079-b244002c6227" width="200"/>
