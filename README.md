@@ -24,7 +24,7 @@ The top part of the menu is devoted to the synths settings. Here a window contai
 The underneath bar controls the master volume.<br>
 Under that you can find the knobs controlling the attack and decay time of all the synths.<br>
 Then two bottons can be found. The left one saves a picture of the snow crystal in the Processing files folder. The right one resets the crystal generation.<br>
-Finally the botton light turns red when the crystals reaches the boundarys of the window and stops growing.
+Finally the botton light turns red when the crystal reaches the boundarys of the window and stops growing.
 
 
 
